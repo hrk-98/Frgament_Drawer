@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:title="About"/>
+
+
+    <item
+        android:id="@+id/system"
+        android:title="System"/>
+
+
+    <item
+        android:id="@+id/more"
+        android:title="More"/>
+
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"/>
+
+</menu>
